@@ -4,7 +4,7 @@ All 15 SDK endpoints with [pyrx-synapse](https://rubygems.org/gems/pyrx-synapse)
 
 ## Setup
 
-1. `gem install pyrx-synapse` (or `bundle install`)
+1. `bundle install`
 2. Copy `.env.example` to `.env`
 
 ## Examples
